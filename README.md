@@ -1,8 +1,6 @@
 # Snail-Lectures-2018
 
-## E.J. Chun
-## date: August 20th (Mon)
-## Topic: baryogenesis 
+## E.J. Chun: baryogenesis, August 20th (Mon)
 
 - Lec#1  11:00-12:30
 - lunch break
