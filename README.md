@@ -1,6 +1,8 @@
 # Snail-Lectures-2018
 
-## E.J. Chun: baryogenesis, August 20th (Mon)
+## E.J. Chun: baryogenesis
+
+### Venue: Choong Ang UniversityAugust 20th (Mon)
 
 2:00-3:00 Lecture I
 
@@ -10,4 +12,10 @@
  
 6:00-     Dinner
 
-## 김근영 (GIST) December
+## Charged Higgs day: September 2018
+
+### Venue: 505 Science Building, Konkuk University
+
+## 김근영 (GIST) December 2018
+
+### Venue: Yeonsei University
