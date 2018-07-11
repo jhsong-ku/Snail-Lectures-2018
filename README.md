@@ -7,3 +7,5 @@
 - Lec#2  13:30-15:00
 - Lec#3  16:00-17:30
 - Dinner
+
+## 김근영 (GIST) December
