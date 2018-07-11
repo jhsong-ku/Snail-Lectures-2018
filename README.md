@@ -2,10 +2,12 @@
 
 ## E.J. Chun: baryogenesis, August 20th (Mon)
 
-- Lec#1  11:00-12:30
-- lunch break
-- Lec#2  13:30-15:00
-- Lec#3  16:00-17:30
-- Dinner
+2:00-3:00 Lecture I
+
+3:30-4:30 Lecture II
+
+5:00-6:00 Lecture III
+ 
+6:00-     Dinner
 
 ## 김근영 (GIST) December
