@@ -1,8 +1,9 @@
 # Snail-Lectures-2018
 
-## E.J. Chun: baryogenesis
+## E.J. Chun (KIAS): baryogenesis
 
-### Venue: Choong Ang UniversityAugust 20th (Mon)
+### Venue: Choong Ang University, 102관 106호
+### Date: August 20th (Mon)
 
 2:00-3:00 Lecture I
 
