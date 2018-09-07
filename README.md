@@ -38,10 +38,10 @@
 
 6:00- Dinner
 
-## 3. Basic collider physics? 김태정 (한양대학교) Nov? 2018
+## 3. Basic collider physics? 김태정 (한양대학교) Nov.10, Sat. 2018
 
 ## 4. Madgraph? 박명훈 (서울과기대) Nov? 2018
 
-## 5. 김근영 (GIST) December 2018
+## 5. 김근영 (GIST) December 15, Sat. 2018
 
 ### Venue: Yeonsei University
