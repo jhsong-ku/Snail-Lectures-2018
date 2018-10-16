@@ -38,7 +38,7 @@
 
 6:00- Dinner
 
-## 3. Basic collider physics? 김태정 (한양대학교) Nov.10, Sat. 2018
+## 3. 김태정 (한양대학교): Basic collider physics 
 
 ### Venue: 505 Science Building, Konkuk University
 ### Date: November 10th (Sat)
