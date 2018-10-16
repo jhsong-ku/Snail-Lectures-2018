@@ -1,9 +1,12 @@
 # Snail-Lectures-2018
 
-## 1. E.J. Chun (KIAS): baryogenesis
+## 3. 김태정 (한양대학교): Basic collider physics 
 
-### Venue: Choong Ang University, 102관 106호
-### Date: August 20th (Mon)
+### Venue: 505 Science Building, Konkuk University
+### Date: November 10th (Sat)
+
+현대 입자물리학에서 가장 중요한 실험 중 하나는 스위스 제네바 인근 CERN의 대형강입자 가속기인 LHC 실험이다. 물리학자들은 빛의 속도에 가까운 양성자와 양성자를 충돌시켜 질량의 근원을 밝혀줄 힉스 입자를 발견하였고 현재 새로운 물리현상을 밝혀내기 위해 노력하고 있다. 우리나라는 현재 LHC의 CMS 실험과 ALICE 실험에 참여하고 있다. 이 중 CMS 실험에 참여하고 계시는 한양대학교의 김태정 교수님께서 가속기 물리학의 기본 원리에 대한 강연을 진행해 주신다.
+
 
 2:00-3:00 Lecture I
 
@@ -12,6 +15,7 @@
 5:00-6:00 Lecture III
  
 6:00-     Dinner
+
 
 ## 2. Charged Higgs day
 
@@ -38,13 +42,11 @@
 
 6:00- Dinner
 
-## 3. 김태정 (한양대학교): Basic collider physics 
 
-### Venue: 505 Science Building, Konkuk University
-### Date: November 10th (Sat)
+## 1. E.J. Chun (KIAS): baryogenesis
 
-현대 입자물리학에서 가장 중요한 실험 중 하나는 스위스 제네바 인근 CERN의 대형강입자 가속기인 LHC 실험이다. 물리학자들은 빛의 속도에 가까운 양성자와 양성자를 충돌시켜 질량의 근원을 밝혀줄 힉스 입자를 발견하였고 현재 새로운 물리현상을 밝혀내기 위해 노력하고 있다. 우리나라는 현재 LHC의 CMS 실험과 ALICE 실험에 참여하고 있다. 이 중 CMS 실험에 참여하고 계시는 한양대학교의 김태정 교수님께서 가속기 물리학의 기본 원리에 대한 강연을 진행해 주신다.
-
+### Venue: Choong Ang University, 102관 106호
+### Date: August 20th (Mon)
 
 2:00-3:00 Lecture I
 
@@ -53,6 +55,8 @@
 5:00-6:00 Lecture III
  
 6:00-     Dinner
+
+
 
 
 ## 4. Madgraph? 박명훈 (서울과기대) Nov? 2018
