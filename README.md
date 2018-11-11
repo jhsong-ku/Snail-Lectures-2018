@@ -9,8 +9,11 @@
 
 
 1:00-2:30 발표1 및 토론, 이현민 "SIDM as a new DM"
+
 2:30-4:00 발표2 및 토론, 송정현 "LHC as a probe"
+
 4:00-5:30 발표3 및 토론, 정성훈 "Gravitational wave as a new probe"
+
 5:30-7:00 발표4 및 토론, 박성찬 "Cosmic ray as a new probe"
 
 
