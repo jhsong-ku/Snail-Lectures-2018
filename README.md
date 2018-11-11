@@ -1,5 +1,19 @@
 # Snail-Lectures-2018
 
+## 4. New probes of New physics 
+
+### Venue: Yonsei University
+### Date: November 24th (Sat)
+
+새로운 입자물리학은 다양한 실험을 통하여 탐구되고 있다. 본 미니 워크샵에서는 LHC 가속기, 암흑물질 실험, 중력파, 우주선 실험 등에서 입자물리학의 새로운 이론을 어떻게 탐구하고 있는지 살펴보고자 한다.
+
+
+1:00-2:30 발표1 및 토론, 이현민 "SIDM as a new DM"
+2:30-4:00 발표2 및 토론, 송정현 "LHC as a probe"
+4:00-5:30 발표3 및 토론, 정성훈 "Gravitational wave as a new probe"
+5:30-7:00 발표4 및 토론, 박성찬 "Cosmic ray as a new probe"
+
+
 ## 3. 김태정 (한양대학교): Basic collider physics 
 
 ### Venue: 505 Science Building, Konkuk University
