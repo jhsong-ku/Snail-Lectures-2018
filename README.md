@@ -74,10 +74,3 @@
 6:00-     Dinner
 
 
-
-
-## 4. Madgraph? 박명훈 (서울과기대) Nov? 2018
-
-## 5. 김근영 (GIST) December 15, Sat. 2018
-
-### Venue: Yeonsei University
